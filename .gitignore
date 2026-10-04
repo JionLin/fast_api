@@ -29,3 +29,8 @@ venv.bak/
 .idea/
 .vscode/
 .DS_Store
+
+# Auto-added standard system & cache ignores
+*.pyc
+*.iml
+.cache/
