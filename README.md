@@ -1,3 +1,13 @@
+<!-- WORKSPACE_META_CARD_START -->
+> 📌 **项目速览卡片**  
+> - **业务领域**：学习沙箱 · Python Web  
+> - **核心定位**：FastAPI 分层 CRUD 教学工程。  
+> - **启动**：`uvicorn main:app --reload --port 8000` → `/docs`  
+> - **状态**：📦 Sandbox，非生产  
+> 
+> ---
+<!-- WORKSPACE_META_CARD_END -->
+
 # FastAPI 用户增删改查实战与学习工程 (fast_api)
 
 > 基于 FastAPI、SQLAlchemy 与 Pydantic 的标准轻量级 Web 服务工程。
